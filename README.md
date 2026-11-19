@@ -3,7 +3,7 @@
 
 # Hi there, I'm Dhruvin 👋
 
-### I'm a Full-Stack Web Developer 💻 and Tech Enthusiast ⚡!
+### I'm a Bsc hons 💻 student at darshan university ⚡!
 
 </div>
 
