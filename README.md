@@ -1,6 +1,6 @@
 
 <div align="center">
-
+wet
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,50:090979,100:00D4FF&text=DHRUVIN&fontSize=80&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Code+Create+Innovate;Building+Digital+Experiences"/>
